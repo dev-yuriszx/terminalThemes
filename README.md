@@ -34,7 +34,7 @@ Antes de usar, o projeto utiliza:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/dev-yuriszx/terminalThemes
+git clone https://github.com/yuri-xyzs/terminalThemes
 cd terminalThemes
 chmod +x terminal_theme_install
 ./terminal_theme_install
